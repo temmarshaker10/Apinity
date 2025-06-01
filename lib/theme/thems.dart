@@ -7,6 +7,8 @@ class AppTheme {
       selectedItemColor: Color(0xFF1877F2), // لون الأيقونة عند التحديد
       unselectedItemColor: Colors.grey[700], // لون الأيقونات الأخرى
     ),
+    textTheme: TextTheme(titleLarge: TextStyle(color: Color(0xFF1E1E1E))),
+
     primaryColor: Color(0xFF2C3E50),
     dividerColor: Color(0xFFE0E0E0),
     hintColor: Color(0xFF757575),
