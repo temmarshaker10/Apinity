@@ -65,7 +65,7 @@ class AppTheme {
       selectedItemColor: Color(0xFF2196F3), // لون الأيقونة عند التحديد
       unselectedItemColor: Colors.grey[400], // لون الأيقونات الأخرى
     ),
-
+    textTheme: TextTheme(titleLarge: TextStyle(color: Color(0xFFFFFFFF))),
     primaryColor: Color(0xFF1E1E2C),
     dividerColor: Color(0xFF33373D),
     hintColor: Color(0xFFBDBDBD),
